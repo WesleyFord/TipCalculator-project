@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tenBtn">10%</string>
+    <string name="fifteenBtn">15%</string>
+    <string name="twentyBtn">20%</string>
+    <string name="customBtn">Custom Tip:</string>
+    <string name="customInput">Insert Custom Tip (In %)</string>
+    <string name="costInput">Insert Bill Amount</string>
+    <string name="groupInput">Insert Party Size</string>
+    <string name="costPrompt">Bill Total:</string>
+    <string name="partyPrompt">Number of People:</string>
+    <string name="resetBtn">Reset</string>
+    <string name="calcBtn">Calculate</string>
+    <string name="radioboxLabel">Select Tip Size:</string>
+    <string name="originalBillText">Overall Bill:</string>
+    <string name="totalTipText">Total Tip:</string>
+    <string name="totalWithTipText">Total (With Tip):</string>
+    <string name="costPerPersonText">Cost Per Person:</string>
+    <string name="returnButton">New Tip</string>
+
+
+</resources>
